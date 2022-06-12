@@ -1,0 +1,16 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+
+<widget
+
+        andriod-versionCode = "1"
+        id = "com.iBuildThings.BasicCalculator"
+        version = "1.0.0"
+        xmlns = "https://www.w3.org/ns/widgets">
+
+        <name>Basic Calculator</name>
+        <description>Self made Calculator</description>
+        <author>iBuildThings</author>
+
+        <preference name = 'orientation' value = "portrait"/>
+
+        </widget>
